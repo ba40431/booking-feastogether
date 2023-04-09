@@ -1,1 +1,1 @@
-# booking-feastogether
+# booking-meal
